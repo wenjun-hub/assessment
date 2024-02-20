@@ -10,7 +10,7 @@ html {
   line-height: 8;
   margin: 5%;
   padding: 5%;
-  border: 1px solid red rgb(255,0,0);
+  border: 1px solid red;
   background-image: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
   background-color: red;
   border-radius: .8em;
