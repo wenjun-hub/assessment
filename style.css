@@ -2,6 +2,7 @@ html {
   font-family: sans-serif;
   text-color: white;
   font-size: 1.5em;
+  font-weight: bold;
   writing-mode: horizontal-tb center;
 }
 
@@ -13,8 +14,8 @@ html {
   margin: 5px;
   padding: 5px;
   border: 1px solid red rgb(255,0,0);
-  background: linear-gradient(105deg, rgb(255 255 255 / 20%) 39%, rgb(51 56 57 / 100%) 96%) center center / 400px 200px no-repeat, rebeccapurple;
-  background-color: purple;
+  background: linear-gradient(105deg, rgb(255 255 255 / 20%) 39%, rgb(51 56 57 / 100%) 96%) center center / 400px 200px no-repeat, reb;
+  background-color: red;
   border-radius: .5em;
   
 }
