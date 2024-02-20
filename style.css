@@ -1,9 +1,11 @@
 html {
   font-family: sans-serif;
   text-color: white;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: bold;
-  writing-mode: horizontal-tb center;
+  writing-mode: horizontal-tb;
+  text-align: center;
+  
 }
 
 /* Your CSS below here */
