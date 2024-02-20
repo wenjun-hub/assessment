@@ -3,3 +3,16 @@ html {
 }
 
 /* Your CSS below here */
+
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid red rgb(255,0,0);
+  font-size: 1em;
+  background-color: red;
+  border-radius: .5em;
+  
+}
+
