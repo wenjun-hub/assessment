@@ -7,8 +7,8 @@ html {
 .box {
   width: 260px;
   height: 200px;
-  margin: 10%;
-  padding: 10%;
+  margin: 5%;
+  padding: 5%;
   border: 1px solid red rgb(255,0,0);
   background-image: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
   background-color: red;
