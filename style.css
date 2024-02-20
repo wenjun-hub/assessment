@@ -7,6 +7,7 @@ html {
 .box {
   width: 260px;
   height: 200px;
+  line-height: 9;
   margin: 5%;
   padding: 5%;
   border: 1px solid red rgb(255,0,0);
