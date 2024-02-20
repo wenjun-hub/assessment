@@ -15,7 +15,7 @@ html {
   background: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
   background-color: red;
   border-radius: .5em;
-  box-shadow: 
+  box-shadow: 10px 10px 10px lightred;
   color: white;
   font-size: 1.2em;
   font-weight: bold;
