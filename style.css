@@ -1,7 +1,5 @@
 html {
   font-family: sans-serif;
-
-  
 }
 
 /* Your CSS below here */
@@ -12,10 +10,10 @@ html {
   margin: 10%;
   padding: 10%;
   border: 1px solid red rgb(255,0,0);
-  background: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
+  background-image: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
   background-color: red;
   border-radius: .5em;
-  box-shadow: 10px 10px 10px lightred;
+  box-shadow: 10px 10px 5px 12px lightred;
   color: white;
   font-size: 1.2em;
   font-weight: bold;
